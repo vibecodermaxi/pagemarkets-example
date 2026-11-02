@@ -1,0 +1,54 @@
+/* The example site's stylesheet. The colours below are for sale; the layout under them is not. */
+
+:root {
+  --ground: #ffffff;
+  --ink: #111111;
+  --accent: #00d97e;
+  --banner: #f2f2ee;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font: 18px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+main {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 4rem 1.5rem;
+}
+
+.eyebrow {
+  margin: 0;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin: 0.25rem 0 1rem;
+  font-size: 2.5rem;
+  line-height: 1.1;
+}
+
+.greeting {
+  min-height: 1.55em;
+  font-size: 1.25rem;
+}
+
+.banner {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: var(--banner);
+  border-left: 4px solid var(--accent);
+}
+
+.banner p { margin: 0; }
+.banner-title { font-weight: 700; margin-bottom: 0.5rem !important; }
+
+a { color: inherit; }
