@@ -3,6 +3,7 @@
 <!-- slot:pagemarkets.line.1 -->
 An example of a GitHub repo with parts for sale on [PageMarkets](https://pagemarkets.com). Whoever buys a part owns it and decides what it says, and our GitHub App commits their words to this repo.
 <!-- /slot -->
+<!-- sale:pagemarkets.line.1 --><p><a href="https://pagemarkets.com/buy/0xffd13e8e59e5db74463a1da2ef87a65680597428/pagemarkets.line.1">Own this space on PageMarkets →</a></p><!-- /sale -->
 
 Your project could be here: one line, a link and a small logo, seen by everyone who opens this repo.
 
@@ -32,6 +33,7 @@ The owner can sell it on or rent it out by the day. Someone else can also buy it
 <!-- slot:pagemarkets.line.2 -->
 This space is for a sponsor too: a line, a link and a small logo.
 <!-- /slot -->
+<!-- sale:pagemarkets.line.2 --><p><a href="https://pagemarkets.com/buy/0xffd13e8e59e5db74463a1da2ef87a65680597428/pagemarkets.line.2">Own this space on PageMarkets →</a></p><!-- /sale -->
 
 ## Nothing here is real
 
