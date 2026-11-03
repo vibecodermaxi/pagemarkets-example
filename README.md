@@ -1,6 +1,8 @@
 # pagemarkets-example
 
+<!-- slot:pagemarkets.line.1 -->
 An example of a GitHub repo with parts for sale on [PageMarkets](https://pagemarkets.com). Whoever buys a part owns it and decides what it says, and our GitHub App commits their words to this repo.
+<!-- /slot -->
 
 Your project could be here: one line, a link and a small logo, seen by everyone who opens this repo.
 
@@ -27,7 +29,9 @@ The owner can sell it on or rent it out by the day. Someone else can also buy it
 
 ## Sponsors
 
+<!-- slot:pagemarkets.line.2 -->
 This space is for a sponsor too: a line, a link and a small logo.
+<!-- /slot -->
 
 ## Nothing here is real
 
